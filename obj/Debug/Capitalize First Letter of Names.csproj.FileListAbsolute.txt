@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Capitalize First Letter of Names\bin\Debug\Capitalize First Letter of Names.exe.config
+C:\Users\HP\source\repos\Capitalize First Letter of Names\bin\Debug\Capitalize First Letter of Names.exe
+C:\Users\HP\source\repos\Capitalize First Letter of Names\bin\Debug\Capitalize First Letter of Names.pdb
+C:\Users\HP\source\repos\Capitalize First Letter of Names\obj\Debug\Capitalize First Letter of Names.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Capitalize First Letter of Names\obj\Debug\Capitalize First Letter of Names.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Capitalize First Letter of Names\obj\Debug\Capitalize First Letter of Names.exe
+C:\Users\HP\source\repos\Capitalize First Letter of Names\obj\Debug\Capitalize First Letter of Names.pdb
